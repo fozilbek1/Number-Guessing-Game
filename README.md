@@ -1,0 +1,2 @@
+# Number Guessing Game
+ This simple console application is a classic number guessing game implemented in C#. The game generates a random number between 1 and 10, and the player has to guess the correct number within a given range. The program provides feedback on whether the guess is too high or too low, guiding the player to the correct answer. After each round, the player can choose to play again or exit the game. It's a fun and interactive way to practice basic C# programming concepts and logic. Have fun guessing!
